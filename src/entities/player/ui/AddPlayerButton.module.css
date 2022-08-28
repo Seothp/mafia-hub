@@ -1,0 +1,14 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 16px;
+}
+
+.submitButton {
+  margin-top: 16px;
+}
+
+.modalTitle {
+  margin: 0;
+  text-align: center;
+}
